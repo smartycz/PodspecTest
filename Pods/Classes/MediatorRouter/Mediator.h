@@ -9,6 +9,8 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+//Test
+
 @interface Mediator : NSObject
 
 + (instancetype)sharedInstance;
